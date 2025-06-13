@@ -1,10 +1,7 @@
 <h2 align="center"> Hi 👋 , I'm Adrián <br/></h2> 
 <br>
-  <a href="https://github.com/FahimFBA" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/FahimFBA?label=Github%20followers&style=for-the-badge">
-  </a> <br> <br>
   <a href="https://github.com/Adrh31" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=FahimFBA&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+    <img src="https://komarev.com/ghpvc/?username=Adrh31&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3> 
       
@@ -87,27 +84,5 @@ Languages </h2>
 	
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-<div align="center">
-	
-
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&layout=compact&theme=synthwave&v=2)
-
-
-</div>
-
-
-<p align="center">
-
-<a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
-</a>
-
 </p>
 
-
-
-------
-Credit: [FahimFBA](https://github.com/FahimFBA)
-Last Edited on: 01/09/2021
