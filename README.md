@@ -4,14 +4,6 @@
     <img src="https://komarev.com/ghpvc/?username=Adrh31&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3> 
-      
-               
-     
-
-
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
@@ -51,10 +43,6 @@ Learning </h5>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div align="center">
-  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
- ### ⚡ Fun fact about me: ✨ I like coding+learning 
-</div>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
