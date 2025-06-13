@@ -25,23 +25,24 @@ Languages </h2>
 </p>
 
 
-<h3 align="center">
-Tools</h3>
+<h5 align="center">
+Tools</h5>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,visualstudio,vscode,dotnet,nodejs" />
   </a>
 </p>
 
-<h3 align="center">
-Other skills </h3>
+<h5 align="center">
+Other skills </h5>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr" />
   </a>
 </p>
 
-
+<h5 align="center">
+Learning </h5>
 [![Learning](https://skillicons.dev/icons?i=cpp,py,java,php,unity)](https://skillicons.dev)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
