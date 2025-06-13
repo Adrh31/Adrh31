@@ -1,4 +1,4 @@
-<h2 align="center"> Hi 👋 , I'm Adrián <br/></h2> 
+<h1 align="center"> Hi 👋 , I'm Adrián <br/></h1> 
 <br>
   <a href="https://github.com/Adrh31" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Adrh31&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
@@ -30,6 +30,11 @@ Tools</h5>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,visualstudio,vscode,dotnet,nodejs" />
+  </a>
+  <h5 align="center">
+Other skills </h5>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr" />
   </a>
 </p>
 
