@@ -25,16 +25,16 @@ Languages </h2>
 </p>
 
 
-<h2 align="center">
-Tools</h2>
+<h3 align="center">
+Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,visualstudio,vscode,dotnet,nodejs" />
   </a>
 </p>
 
-<h2 align="center">
-Other skills </h2>
+<h3 align="center">
+Other skills </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr" />
@@ -42,20 +42,7 @@ Other skills </h2>
 </p>
 
 
-
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-
-![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-
-<h3> + many more! </h3>
+[![Learning](https://skillicons.dev/icons?i=cpp,py,java,php,unity)](https://skillicons.dev)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
