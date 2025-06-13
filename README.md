@@ -45,7 +45,7 @@ Learning </h5>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
-<summary> :snowflake: Online Judges profile? Click here!:</summary>
+<summary> :snowflake: Online Judges profile:</summary>
 <div align="center">
 :star: [Codeforces](https://codeforces.com/profile/Adrh31) <br>
 :star: [Leetcode](https://leetcode.com/u/Adri8n31/) <br>
