@@ -41,8 +41,7 @@ Other skills </h5>
   </a>
 </p>
 
-<h5 align="center">
-Learning </h5>
+Learning
 [![Learning](https://skillicons.dev/icons?i=cpp,py,java,php,unity)](https://skillicons.dev)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
