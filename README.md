@@ -19,6 +19,8 @@
 <h2 align="center">
 Languages </h2>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c#)](https://skillicons.dev)
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
@@ -51,38 +53,20 @@ Languages </h2>
 <h3> + many more! </h3>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <div align="center">
-  
-
-
-  
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
-
  ### ⚡ Fun fact about me: ✨ I like coding+learning 
-
 </div>
-
-
-
-
-
-
-
-
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
-	 <summary> :snowflake: Do you want to check my profile of CP related various Online Judges? Click here! 📈:</summary>
+	 <summary> :snowflake: Online Judges profile? Click here!:</summary>
 <div align="center">
 :star: [Codeforces](https://codeforces.com/profile/Adrh31) <br>
 :star: [Leetcode](https://leetcode.com/u/Adri8n31/) <br>
 </div> 
 </details>
-	
-	
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 </p>
 
