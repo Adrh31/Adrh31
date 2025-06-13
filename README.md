@@ -26,7 +26,14 @@ Languages </h2>
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,js,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode)](https://skillicons.dev)
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu," />
+  </a>
+</p>
 
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
