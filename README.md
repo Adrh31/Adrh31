@@ -32,16 +32,20 @@ Tools</h5>
   </a>
 </p>
 
-<h5 align="center">
-Other skills </h5>
+<h10 align="center">
+Other skills </h10>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr" />
   </a>
 </p>
 
-Learning
-[![Learning](https://skillicons.dev/icons?i=cpp,py,java,php,unity)](https://skillicons.dev)
+<h10 align="center">
+Learning </h10>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,php,unity&perline=3)](https://skillicons.dev)
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
