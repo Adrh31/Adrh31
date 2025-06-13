@@ -53,24 +53,6 @@ Languages </h2>
 
 <h3> + many more! </h3>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-<h2 align="center">
-My Current Workstation Specification </h2>
-
-<div align="center">
-	
-
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-<br> 
-	
-![GPU](https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
-
-
-
-</div>
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
@@ -80,10 +62,8 @@ My Current Workstation Specification </h2>
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
- ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
+ ### ⚡ Fun fact about me: ✨ I like coding+learning 
  
-
-
 <h2>Connect with me!</h2>
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fahimfba/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Fahim_FBA/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/iptu.fba)
@@ -113,7 +93,7 @@ My Current Workstation Specification </h2>
 <div align="center">
 
 
-:star: [Codeforces](https://codeforces.com/profile/FahimFBA) <br>
+:star: [Codeforces]((https://codeforces.com/profile/Adrh31)) <br>
 :star: [Toph](https://toph.co/u/FahimFBA) <br>
 :star: [HackerRank](https://www.hackerrank.com/FahimFBA) <br>
 :star: [HackerEarth](https://www.hackerearth.com/@md.fahim3) <br>
