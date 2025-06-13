@@ -18,22 +18,29 @@
 
 <h2 align="center">
 Languages </h2>
-
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=cs,html,css,js,mysql" />
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode)](https://skillicons.dev)
 
-
+<h2 align="center">
+Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu," />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,visualstudio,vscode,dotnet,nodejs" />
   </a>
 </p>
+
+<h2 align="center">
+Other skills </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr" />
+  </a>
+</p>
+
 
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
