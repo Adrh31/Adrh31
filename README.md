@@ -93,7 +93,7 @@ Languages </h2>
 <div align="center">
 
 
-:star: [Codeforces]((https://codeforces.com/profile/Adrh31)) <br>
+:star: [Codeforces](https://codeforces.com/profile/Adrh31) <br>
 :star: [Toph](https://toph.co/u/FahimFBA) <br>
 :star: [HackerRank](https://www.hackerrank.com/FahimFBA) <br>
 :star: [HackerEarth](https://www.hackerearth.com/@md.fahim3) <br>
