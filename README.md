@@ -19,6 +19,13 @@
 <h2 align="center">
 Languages </h2>
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,mysql" />
+  </a>
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,js,mysql)](https://skillicons.dev)
 
 
