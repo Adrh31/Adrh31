@@ -1,6 +1,4 @@
-<h1 align="center"> Hi 👋 , I'm Adrián <br/></h1> 
-<br>
-
+<h1 align="center"> Hi ⚔️ , I'm Adrián <br/></h1> 
   <!-- 
     <h3>
       <a href="https://github.com/Adrh31" target="_blank">
