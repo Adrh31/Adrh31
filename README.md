@@ -1,13 +1,13 @@
 <h1 align="center"> Hi 👋 , I'm Adrián <br/></h1> 
 <br>
-<!-- -->
-  <h3>
-  <a href="https://github.com/Adrh31" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Adrh31&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-  </a>
-  </h3> 
 
-<!-- -->
+  <!-- 
+    <h3>
+      <a href="https://github.com/Adrh31" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=Adrh31&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+      </a>
+    </h3> 
+  -->
 
 <h2 align="center">
 Languages </h2>
