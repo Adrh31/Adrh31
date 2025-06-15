@@ -1,4 +1,4 @@
-<h1 align="center"> Hi ⚔️ , I'm Adrián <br/></h1> 
+<h1 align="center"> Hi ⚔ , I'm Adrián <br/></h1> 
   <!-- 
     <h3>
       <a href="https://github.com/Adrh31" target="_blank">
@@ -17,16 +17,16 @@ Languages </h2>
 
 <br/>
 
-<h5 align="center">
-Tools</h5>
+<h7 align="center">
+Tools</h7>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,visualstudio,vscode,dotnet,nodejs" />
   </a>
 </p>
 
-<h5 align="center">
-Other skills </h5>
+<h7 align="center">
+Other skills </h7>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr" />
