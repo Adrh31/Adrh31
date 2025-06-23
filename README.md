@@ -20,7 +20,7 @@ Languages </h2>
 <h5 align="center">
 Tools</h5>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,visualstudio,vscode,dotnet,nodejs" />
   </a>
 </p>
