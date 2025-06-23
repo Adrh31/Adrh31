@@ -10,7 +10,7 @@
 <h2 align="center">
 Languages </h2>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=cs,html,css,js,mysql" />
   </a>
 </p>
@@ -28,7 +28,7 @@ Tools</h5>
 <h5 align="center">
 Other skills </h5>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr" />
   </a>
 </p>
@@ -37,7 +37,7 @@ Other skills </h5>
 <h5 align="center">
 Learning </h5>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=cpp,py,java,php,unity" />
   </a>
 </p>
